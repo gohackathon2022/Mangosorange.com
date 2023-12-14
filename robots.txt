@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mangosorange.com/sitemap-index.xml
+Sitemap: http://mangosorange.com/sitemap-index-1.xml
+Sitemap: http://mangosorange.com/sitemap.xml

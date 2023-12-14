@@ -1,0 +1,85 @@
+[11-Oct-2023 00:36:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/mango9yb/public_html/update/dashboard.php:400
+Stack trace:
+#0 /home1/mango9yb/public_html/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/mango9yb/public_html/update/dashboard.php on line 400
+[11-Oct-2023 00:36:09 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/mango9yb/public_html/update/dashboard.php:400
+Stack trace:
+#0 /home1/mango9yb/public_html/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/mango9yb/public_html/update/dashboard.php on line 400
+[17-Oct-2023 05:57:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[17-Oct-2023 05:57:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[17-Oct-2023 16:06:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[17-Oct-2023 16:06:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[17-Oct-2023 16:06:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[17-Oct-2023 16:06:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[02-Nov-2023 11:51:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[02-Nov-2023 11:52:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[02-Nov-2023 11:58:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[02-Nov-2023 11:59:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[03-Nov-2023 07:46:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[03-Nov-2023 07:46:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[03-Nov-2023 07:47:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[07-Nov-2023 09:51:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
+[16-Nov-2023 13:01:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php:400
+Stack trace:
+#0 /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php(400): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'mangosdb')
+#1 {main}
+  thrown in /home1/ehardco1/public_html/mangosorange.com/update/dashboard.php on line 400
